@@ -1,4 +1,5 @@
 # 端口监控工具 (Port Monitor)
+<img width="2282" height="1508" alt="image" src="https://github.com/user-attachments/assets/8d1f6301-8d1c-490d-bbf2-10e001c24581" />
 
 一个用于监控和管理 macOS 上端口占用情况的可视化工具。
 
